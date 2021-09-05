@@ -1,27 +1,25 @@
-# App2
+# Ecommerce Passaro Urbano
+
+You can download the project and run.
+It was a test of the ability to develop an ecommerce website with new technologies
+
+==================================================================
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
 
-## Development server
+## Npm install all the dependencies
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+npm install on terminal to download and install
 
-## Code scaffolding
+## Development server 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Run `ng serve` for a dev server.
+Navigate to `http://localhost:4200/`.
+The app will automatically reload if you change any of the source files.
 
-## Build
+## Close
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+On the terminal click `ctrl + c` and next `Y`
 
-## Running unit tests
+## Hope you enjoy
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
